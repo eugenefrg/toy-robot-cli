@@ -1,0 +1,11 @@
+place 0 0 S
+move
+move
+move
+move
+left
+move
+move
+left
+move
+report

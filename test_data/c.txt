@@ -1,0 +1,6 @@
+place 1 2 E
+move
+move
+left
+move
+report
